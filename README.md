@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samearusuosita
-- FrontEnd Development...
-- 📫 How to reach me ... arususamuel@gmail.com or call +2347065434953
+- FrontEnd Developer...
+- 📫 How to reach me ... samearusuosita@gmail.com or call +2347065434953
 
 <!---
 samearusuosita/samearusuosita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
