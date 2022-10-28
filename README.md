@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samearusuosita
-- FrontEnd Developer...
+- Software Engineer && Full Stack Developer && UI/UX Enthusiast
 - 📫 How to reach me ... samearusuosita@gmail.com or call +2347065434953
 
 <!---
